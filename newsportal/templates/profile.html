@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+{% load static %}
+{% static "images" as imgurl %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{% static "css/style.css"%}">
+    <title>profile</title>
+</head>
+<body>
+<h1>{{head}}</h1>
+<ul>
+    <li>{{msg1}}</li>
+    <li>{{msg2}}</li>
+</ul>
+<img src="{{imgurl}}/{{img}}" alt="Retry again"/>
+
+</body>
+</html>

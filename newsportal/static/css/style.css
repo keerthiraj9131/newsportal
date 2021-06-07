@@ -1,0 +1,16 @@
+h1{
+    background: red;
+    color: blue;
+    text-align: center;
+    font-size: 30px;
+}
+ul{
+    font-size: 20px
+}
+img{
+    height: 250px;
+    width: 250px;
+}
+a{
+    font-align: center;
+}
