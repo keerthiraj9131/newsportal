@@ -10,11 +10,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/newsportal/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Procfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="29" selection-start-column="29" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -112,10 +121,11 @@
         <option value="$PROJECT_DIR$/manage.py" />
         <option value="$PROJECT_DIR$/newsapp/models.py" />
         <option value="$PROJECT_DIR$/newsportal/settings.py" />
+        <option value="$PROJECT_DIR$/Procfile" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-15" />
     <option name="y" value="40" />
     <option name="width" value="1750" />
@@ -132,16 +142,6 @@
           <expand>
             <path>
               <item name="newsportal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newsportal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newsportal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newsportal" type="462c0819:PsiDirectoryNode" />
-              <item name="newsapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newsportal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newsportal" type="462c0819:PsiDirectoryNode" />
               <item name="newsportal" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -328,6 +328,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
         </state>
       </provider>
     </entry>
