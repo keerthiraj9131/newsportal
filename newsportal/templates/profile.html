@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 {% load static %}
-{% static "images" as imgurl %}
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -13,7 +12,7 @@
     <li>{{msg1}}</li>
     <li>{{msg2}}</li>
 </ul>
-<img src="{{imgurl}}/{{info.img}}" alt="Retry again"/>
+<img src="{% static "images"%}/{{img}}" alt="Retry again"/>
 
 </body>
 </html>
