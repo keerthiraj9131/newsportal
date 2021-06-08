@@ -14,7 +14,7 @@
         <entry file="file://$PROJECT_DIR$/newsportal/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="276">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+              <caret line="31" selection-start-line="31" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -249,7 +249,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966888" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -362,7 +361,7 @@
     <entry file="file://$PROJECT_DIR$/newsportal/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <caret line="31" selection-start-line="31" selection-end-line="32" />
         </state>
       </provider>
     </entry>
