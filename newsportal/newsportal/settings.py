@@ -28,7 +28,13 @@ SECRET_KEY = '^f8qedpo3+j@6^oz746$d-)b0!*90rx9^rllr0!)v2b7f4obou'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+<<<<<<< HEAD
 ALLOWED_HOSTS = ['blogapplication01.herokuapp.com',]
+=======
+ALLOWED_HOSTS = [
+    'blogapplication01.herokuapp.com'
+]
+>>>>>>> dbd5a68477bb689f8f0aa4bd81732883664d86dc
 
 
 # Application definition
